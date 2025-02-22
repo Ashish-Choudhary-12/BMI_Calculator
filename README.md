@@ -39,5 +39,7 @@ This app is perfect for health-conscious people or those on a fitness journey. I
 
 - **Name**: Ashish Choudhary
 
+
+
 The BMI Calculator app combines functionality with a user-friendly design to help you stay informed about your health. Download now and start tracking your BMI effortlessly!
 
